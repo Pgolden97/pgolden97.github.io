@@ -1,0 +1,60 @@
+@charset "utf-8";
+
+
+
+html {
+	
+	margin:0px;
+	
+	/*background-image:url(Images/Homepage.jpg);
+	/*background-size:;*/
+	*/
+	
+	
+}
+
+body {
+	
+	
+	
+	
+	
+	
+	
+}
+
+.image {
+	background-image:url(Images/2015-12-25_1451054403.jpg);
+	background-size:cover;
+	height: 100%;
+}
+
+header {
+	
+	
+	
+	
+}
+
+h1 {
+	text-align:center;
+	
+	font-weight:bolder;
+	padding-top:0px;
+	color:#FFF;
+}
+
+h2 {
+	text-align:center;
+	font-weight:bold;
+	color:#FFF;
+}
+
+p {
+	text-align:center;
+	max-width:	600px;
+	margin: 1000px auto 20px;
+}
+
+
+
