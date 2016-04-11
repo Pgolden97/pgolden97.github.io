@@ -3,4 +3,4 @@ Class Project
 
 this is a read me
 
-[click here] (http://pgolden97.github.io/wpd) to see my class page
+[click here] (http://pgolden97.github.io/wpd/landingpage) to see my class page
