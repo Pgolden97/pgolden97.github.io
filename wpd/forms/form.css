@@ -97,7 +97,11 @@ form#signup input[type="checkbox"] + label, form#signup input[type"radio"] + lab
     line-height: 16px;
 }
 
-form#signup input[type="checkbox"] + label{
+
+
+
+
+form#signup input[type="checkbox"] + label {
     background-position: 0px 0px;
 }
 
